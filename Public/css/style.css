@@ -1,0 +1,57 @@
+/* navbar */
+.navbar {
+background-color:#292535;
+border-bottom: 2px solid white !important;
+height: 100px;
+}
+/* color background */
+.color {
+background-color: #292535;
+}
+/* Welcome page Home */
+.center {
+color: white;
+padding-top: 50px;
+text-align: center;
+}
+.text {
+color: white;
+width: 550px;
+height: 100px;
+text-align: center;  
+}
+/* CALL TO RESERVE */
+.call {
+color: white;
+text-align: center;
+width: 300px;
+}
+/*couleur texte balise a et i, fonction !important pour que il passe avant le lien bootstrap  */
+a, i {
+color: white !important;
+}
+/* petite margin pour le le logo ne colle pas au nom "Pizza Seb */
+.margin-right-xs {
+margin-right: 10px;
+}
+/*border-top footer */
+.border-top {
+border-top: white;
+}
+/* margin butoton navbar */
+.btn-group{
+margin-right: 130px;
+}
+/* text card */
+.card-header{
+text-align: center;
+}
+/* text body card */
+.card-body{
+color: black;
+text-align: center;
+}
+/* centrer l'e-mail */
+#mail-center{
+text-align: center;
+}

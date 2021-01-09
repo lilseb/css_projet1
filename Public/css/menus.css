@@ -1,0 +1,41 @@
+/* MENU */
+#menu {
+color: red;
+background-color: #292535;
+text-align: center;
+padding-top: 10px;
+}
+/* padding and margin card */
+#menu-item {
+padding-top: 20px;
+margin: 20px;
+}
+/* navbar */
+.navbar {
+background-color:#292535;
+border-bottom: 2px solid white !important;
+height: 100px;
+}
+/*couleur texte balise a et i, fonction !important pour que il passe avant le lien bootstrap  */
+a, i {
+color: white !important;
+}
+/* petite margin pour le le logo ne colle pas au nom "Pizza Seb */
+.margin-right-xs {
+margin-right: 10px;
+}
+/*border-top footer */
+.border-top{
+border-top: white;
+}
+.border-bleu {
+background-color: #292535;
+}
+.center {
+color: white;
+padding-top: 50px;
+text-align: center;
+}
+.btn-group{
+margin-right: 130px;
+}

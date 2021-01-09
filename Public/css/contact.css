@@ -1,0 +1,38 @@
+/* navbar, fonction !important pour que il passe avant le lien bootstrap */
+.navbar {
+    background-color:#292535;
+    border-bottom: 2px solid white !important;
+    height: 100px;
+}
+/* fonction !important pour que il passe avant le lien bootstrap   */
+a, i {
+    color: white !important; 
+}
+/*petite margin pour le le logo ne colle pas au nom "Pizza Seb"*/
+.margin-right-xs {
+    margin-right: 10px;
+}
+/*border-top footer */
+.border-top {
+    border-top: white;
+}
+/* couleur footer */
+.back-bleu {
+    background-color: #292535;
+}
+.center {
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.mail {
+    color: white;
+}
+.img-contact {
+    margin-top: 10px;
+}
+/* margin-right button navbar */
+.btn-group{
+    margin-right: 130px;
+}
